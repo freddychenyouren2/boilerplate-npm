@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Freddy Chen You Ren",
+	"description": "A boilerplate to learn backend from freecodecamp.",
+	"keywords": ["backend", "freecodecamp", "boilerplate"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
